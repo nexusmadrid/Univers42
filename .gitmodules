@@ -412,3 +412,9 @@
 [submodule "wr"]
 	path = wr
 	url = https://github.com/Univers42/wr.git
+[submodule "life"]
+	path = life
+	url = https://github.com/Univers42/life.git
+[submodule "test"]
+	path = test
+	url = https://github.com/Univers42/test.git
