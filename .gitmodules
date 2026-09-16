@@ -418,3 +418,15 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/Univers42/test.git
+[submodule "feature-flags"]
+	path = feature-flags
+	url = https://github.com/Univers42/feature-flags.git
+[submodule "markdown-engine"]
+	path = markdown-engine
+	url = https://github.com/Univers42/markdown-engine.git
+[submodule "outbox-ledger"]
+	path = outbox-ledger
+	url = https://github.com/Univers42/outbox-ledger.git
+[submodule "perf-probe"]
+	path = perf-probe
+	url = https://github.com/Univers42/perf-probe.git
