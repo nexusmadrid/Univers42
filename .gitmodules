@@ -430,3 +430,15 @@
 [submodule "perf-probe"]
 	path = perf-probe
 	url = https://github.com/Univers42/perf-probe.git
+[submodule "gnl_tester"]
+	path = gnl_tester
+	url = https://github.com/Univers42/gnl_tester.git
+[submodule "http-gate"]
+	path = http-gate
+	url = https://github.com/Univers42/http-gate.git
+[submodule "osionos-ui"]
+	path = osionos-ui
+	url = https://github.com/Univers42/osionos-ui.git
+[submodule "pomodoro_system"]
+	path = pomodoro_system
+	url = https://github.com/Univers42/pomodoro_system.git
