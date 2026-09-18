@@ -442,3 +442,9 @@
 [submodule "pomodoro_system"]
 	path = pomodoro_system
 	url = https://github.com/Univers42/pomodoro_system.git
+[submodule "SciGraphs"]
+	path = SciGraphs
+	url = https://github.com/Univers42/SciGraphs.git
+[submodule "monaco-editor"]
+	path = monaco-editor
+	url = https://github.com/Univers42/monaco-editor.git
