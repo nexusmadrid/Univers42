@@ -448,3 +448,6 @@
 [submodule "monaco-editor"]
 	path = monaco-editor
 	url = https://github.com/Univers42/monaco-editor.git
+[submodule "get_next_line_tester"]
+	path = get_next_line_tester
+	url = https://github.com/Univers42/get_next_line_tester.git
