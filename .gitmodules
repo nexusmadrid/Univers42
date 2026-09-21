@@ -451,3 +451,12 @@
 [submodule "get_next_line_tester"]
 	path = get_next_line_tester
 	url = https://github.com/Univers42/get_next_line_tester.git
+[submodule "draw-engine"]
+	path = draw-engine
+	url = https://github.com/Univers42/draw-engine.git
+[submodule "drawnosaurus"]
+	path = drawnosaurus
+	url = https://github.com/Univers42/drawnosaurus.git
+[submodule "laboratory"]
+	path = laboratory
+	url = https://github.com/Univers42/laboratory.git
