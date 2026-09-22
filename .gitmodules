@@ -460,3 +460,9 @@
 [submodule "laboratory"]
 	path = laboratory
 	url = https://github.com/Univers42/laboratory.git
+[submodule "git-flow-next"]
+	path = git-flow-next
+	url = https://github.com/Univers42/git-flow-next.git
+[submodule "memoize"]
+	path = memoize
+	url = https://github.com/Univers42/memoize.git
