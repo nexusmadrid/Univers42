@@ -466,3 +466,9 @@
 [submodule "memoize"]
 	path = memoize
 	url = https://github.com/Univers42/memoize.git
+[submodule "bob"]
+	path = bob
+	url = https://github.com/Univers42/bob.git
+[submodule "ghidra"]
+	path = ghidra
+	url = https://github.com/Univers42/ghidra.git
