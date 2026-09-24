@@ -472,3 +472,6 @@
 [submodule "ghidra"]
 	path = ghidra
 	url = https://github.com/Univers42/ghidra.git
+[submodule "chrome-devtools-mcp"]
+	path = chrome-devtools-mcp
+	url = https://github.com/Univers42/chrome-devtools-mcp.git
