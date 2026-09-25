@@ -475,3 +475,12 @@
 [submodule "chrome-devtools-mcp"]
 	path = chrome-devtools-mcp
 	url = https://github.com/Univers42/chrome-devtools-mcp.git
+[submodule "motionsites.ai"]
+	path = motionsites.ai
+	url = https://github.com/Univers42/motionsites.ai.git
+[submodule "ray-tracing"]
+	path = ray-tracing
+	url = https://github.com/Univers42/ray-tracing.git
+[submodule "vtracer"]
+	path = vtracer
+	url = https://github.com/Univers42/vtracer.git
