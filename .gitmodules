@@ -484,3 +484,6 @@
 [submodule "vtracer"]
 	path = vtracer
 	url = https://github.com/Univers42/vtracer.git
+[submodule "commit-history-visualizer"]
+	path = commit-history-visualizer
+	url = https://github.com/Univers42/commit-history-visualizer.git
