@@ -496,3 +496,6 @@
 [submodule "storage-router-api"]
 	path = storage-router-api
 	url = https://github.com/Univers42/storage-router-api.git
+[submodule "graph_render"]
+	path = graph_render
+	url = https://github.com/Univers42/graph_render.git
