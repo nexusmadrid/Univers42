@@ -499,3 +499,6 @@
 [submodule "graph_render"]
 	path = graph_render
 	url = https://github.com/Univers42/graph_render.git
+[submodule "GestiON"]
+	path = GestiON
+	url = https://github.com/Univers42/GestiON.git
