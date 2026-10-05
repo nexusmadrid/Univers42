@@ -502,3 +502,6 @@
 [submodule "GestiON"]
 	path = GestiON
 	url = https://github.com/Univers42/GestiON.git
+[submodule "invisibility-cloak"]
+	path = invisibility-cloak
+	url = https://github.com/Univers42/invisibility-cloak.git
