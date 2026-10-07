@@ -505,3 +505,6 @@
 [submodule "invisibility-cloak"]
 	path = invisibility-cloak
 	url = https://github.com/Univers42/invisibility-cloak.git
+[submodule "waza"]
+	path = waza
+	url = https://github.com/Univers42/waza.git
