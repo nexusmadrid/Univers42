@@ -508,3 +508,6 @@
 [submodule "waza"]
 	path = waza
 	url = https://github.com/Univers42/waza.git
+[submodule "ai-engineering-from-scratch"]
+	path = ai-engineering-from-scratch
+	url = https://github.com/Univers42/ai-engineering-from-scratch.git
