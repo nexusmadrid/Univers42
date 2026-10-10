@@ -511,3 +511,9 @@
 [submodule "ai-engineering-from-scratch"]
 	path = ai-engineering-from-scratch
 	url = https://github.com/Univers42/ai-engineering-from-scratch.git
+[submodule "C_exception"]
+	path = C_exception
+	url = https://github.com/Univers42/C_exception.git
+[submodule "xft"]
+	path = xft
+	url = https://github.com/Univers42/xft.git
